@@ -1,7 +1,6 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-12-06
 inline: true
 ---
-
-A simple inline announcement.
+Upgraded MTech Research to Ph.D. in the Department of Electrical Engineering under the supervision of Dr. Chandra Sekar Seelamantula.
