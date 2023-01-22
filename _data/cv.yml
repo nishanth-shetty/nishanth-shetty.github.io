@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Nishanth Shetty
-    - name: Date of Birth
-      value: 19th May 1998
+    #- name: Date of Birth
+    #  value: 19th May 1998
     - name: Languages
       value: Kannada, Hindi, English, German
 
@@ -15,14 +15,11 @@
       institution: Indian Institute of Science, Bangalore
       year: 2021-(2026)
       description:
-        - Spectrum Lab
-        - Department of Electrical Engineering
+        - Supervisor : Chandra Sekar Seelamantula
+        - Spectrum Lab, Department of Electrical Engineering
     - title: B.Tech. in Electronics and Communication Engineering 
       institution: PES University, Bangalore
       year: 2016-2020
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
@@ -36,6 +33,8 @@
     - title: Intern
       institution: Microsoft Innovation Labs
       year: June-August 2018
+      description:
+        - Generative Adversarial Networks for text-to-image generation.
 
 #- title: Open Source Projects
 #  type: time_table
